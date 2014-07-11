@@ -41,6 +41,7 @@ gem 'spring',        group: :development
 gem 'i18n', '0.6.9'
 gem 'capistrano', '~> 3.2.0'
 gem 'puma'
+gem 'dotenv-rails'
 
 # gem 'spree', '2.3.1'
 gem 'spree', github: 'spree/spree', branch: '2-3-stable'
